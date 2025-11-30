@@ -42,7 +42,7 @@ const Footer = () => {
             <h5>GET IN TOUCH</h5>
             <ul className="list-unstyled footer-links">
               <li>+1-000-000-0000</li>
-              <li>greatstackdev@gmail.com</li>
+              <li>nagasaiayyala@gmail.com</li>
               <li>Instagram</li>
             </ul>
           </Col>
@@ -52,7 +52,7 @@ const Footer = () => {
       {/* --- COPYRIGHT SECTION --- */}
       <div className="bg-dark text-white text-center py-3">
         <Container>
-          <p className="mb-0">Copyright 2024@ greatstack.dev - All Right Reserved.</p>
+          <p className="mb-0">Copyright 2024@ Nagasai.dev - All Right Reserved.</p>
         </Container>
       </div>
     </footer>
